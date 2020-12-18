@@ -9,7 +9,8 @@
     - interactive reports - filters, groups, pivots, downloads, subscriptions...
     - interactive grids
     - faceted search
-    - clickable graphs
+    - clickable charts \
+    https://apex.oracle.com/pls/apex/f?p=10800:1::::::
     - mega menu
 
 
