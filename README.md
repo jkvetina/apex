@@ -23,10 +23,10 @@
 Free Workspace = just APEX \
 Free Cloud Account = APEX on ATB (with administration)
 
-### Free sample apps
+### Free Sample Apps
 - https://apex.oracle.com/en/solutions/apps/
 
-### Free labs
+### Free Labs
 - https://apex.oracle.com/en/learn/tutorials/
 - https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=631
 - https://apexapps.oracle.com/pls/apex/f?p=133:100:106062906509387::::SEARCH:apex
