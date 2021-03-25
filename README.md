@@ -30,7 +30,7 @@ Free Cloud Account = APEX on ATB (with administration)
 - https://apex.oracle.com/en/learn/tutorials/
 - https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?p180_id=631
 - https://apexapps.oracle.com/pls/apex/f?p=133:100:106062906509387::::SEARCH:apex
-
+- https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/livelabs-workshop-cards?p100_role=140&me=112
 
 <br />
 
