@@ -10,7 +10,7 @@
     - interactive grids
     - faceted search
     - clickable charts \
-    https://apex.oracle.com/pls/apex/f?p=10800:1::::::
+    https://apex.oracle.com/pls/apex/f?p=10800:1
     - mega menu
 
 
@@ -38,17 +38,17 @@ Free Cloud Account = APEX on ATB (with administration)
 
 ### Free Resources
 - Oracle Documentation \
-https://docs.oracle.com/en/database/oracle/application-express/index.htmlOracle
+https://docs.oracle.com/en/database/oracle/application-express/index.html
 - Oracle APEX Blog \
 https://blogs.oracle.com/apex/
 - Oracle APEX Youtube channel \
 https://www.youtube.com/c/OracleAPEX
 - Ask Tom Office Hours \
-https://asktom.oracle.com/pls/apex/f?p=100:508:
+https://asktom.oracle.com/pls/apex/f?p=100:508
 - APEX at Home \
 https://apexatho.me/pls/apex/f?p=apexathome:home:0
 - APEX World \
-https://apex.world/ords/f?p=100:1::::::
+https://apex.world/ords/f?p=100:1
 - Tim Hall articles \
 https://oracle-base.com/articles/misc/articles-misc#apex
 - Groundbreakers Developer Community
