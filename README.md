@@ -51,6 +51,8 @@ https://apexatho.me/pls/apex/f?p=apexathome:home:0
 https://apex.world/ords/f?p=100:1::::::
 - Tim Hall articles \
 https://oracle-base.com/articles/misc/articles-misc#apex
+- Groundbreakers Developer Community
+https://community.oracle.com/tech/developers/categories/1application_express
 
 ### Oracle University Courses (paid)
 - Workshop I \
@@ -72,5 +74,4 @@ https://education.oracle.com/oracle-database-learning-subscription/ls_38560
 
 ### Free Oracle APEX Explorer badge
 - https://learn.oracle.com/ols/learning-path/oracle-apex-explorer/35573/80179
-
 
