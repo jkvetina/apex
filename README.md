@@ -64,9 +64,11 @@ https://education.oracle.com/oracle-application-express-workshop-ii/courP_3234
 - Administration \
 https://education.oracle.com/oracle-application-express-administration/courP_572
 
-### Oracle APEX Certification
+### Oracle APEX Certifications
 - Oracle Application Express 18: Developing Web Applications (Exam Number: 1Z0-750) \
 https://education.oracle.com/oracle-application-express-18-developing-web-applications/pexam_1Z0-750
+- Oracle APEX Cloud Developer Certified Specialist (Exam Number: 1z0-760) \
+https://education.oracle.com/oracle-apex-cloud-developer-specialist/pexam_1Z0-760
 
 ### Oracle Subscriptions
 - Data Management Learning Subscription (ATB) \
