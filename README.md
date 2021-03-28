@@ -53,6 +53,8 @@ https://apex.world/ords/f?p=100:1
 https://oracle-base.com/articles/misc/articles-misc#apex
 - Groundbreakers Developer Community
 https://community.oracle.com/tech/developers/categories/1application_express
+- Oracle Learning Library Examples
+https://apexapps.oracle.com/pls/apex/f?p=44785:2:0:FORCE_QUERY::2:P2_GROUP_ID,P2_PRODUCT_ID,P2_TAGS:1000,2039
 
 ### Oracle University Courses (paid)
 - Workshop I \
